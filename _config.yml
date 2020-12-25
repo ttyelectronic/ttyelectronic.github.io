@@ -1,6 +1,6 @@
 # Site settings
-title: 标题
-SEOTitle: 标签悬停显示
+title: TTY
+SEOTitle: TTY
 header-img: img/post-bg-desk.jpg
 email: 820191396@qq.com
 description: "1"
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
